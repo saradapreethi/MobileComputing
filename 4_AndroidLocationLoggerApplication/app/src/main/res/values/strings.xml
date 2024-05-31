@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">location_aidl</string>
+    <string name="latitude">Latitude:</string>
+    <string name="longitude">Longitude:</string>
+    <string name="distance">Distance:</string>
+    <string name="average_speed">Average Speed:</string>
+    <string name="start_service">Start Service</string>
+    <string name="stop_service">Stop Service</string>
+    <string name="update_services">Update Services</string>
+    <string name="exit">Exit</string>
+</resources>
